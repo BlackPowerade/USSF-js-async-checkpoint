@@ -1,0 +1,22 @@
+{
+  "name": "gettypes",
+  "version": "1.0.0",
+  "description": "Get types of pokemon from an input file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ac-cool-breeze/USSF-js-async-checkpoint.git"
+  },
+  "keywords": [
+    "Pokemon"
+  ],
+  "author": "Colter, Samuels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ac-cool-breeze/USSF-js-async-checkpoint/issues"
+  },
+  "homepage": "https://github.com/ac-cool-breeze/USSF-js-async-checkpoint#readme"
+}
